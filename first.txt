@@ -1,4 +1,7 @@
 feature1
 feature2
+<<<<<<< HEAD
 feature3
 feature4
+=======
+>>>>>>> parent of 212c0c6... feature3 added
